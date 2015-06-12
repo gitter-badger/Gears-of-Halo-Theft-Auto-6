@@ -1,0 +1,5 @@
+Step 1: File >> New >> Java Project
+Step 2: Un-tick Use default location
+Step 3: Point the folder location to the LOCAL git clone
+
+Eclipse should now integrate well with the git :)
